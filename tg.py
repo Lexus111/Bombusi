@@ -10,7 +10,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 # ==========================================
 # ⚙️ НАСТРОЙКИ
 # ==========================================
-API_TOKEN = '8576154469:AAGDsroPZqP68AK3gohpk3Nan0SM7RtFsSc'
+API_TOKEN = '8369456295:AAFdMTsKk9dBdlvXn0R4TlKaS0XRZqZLUiM'
 GEMINI_API_KEY = 'AIzaSyA0wvc8cvUBgAtYhPdcCnQ2dZqj55rnTqk' # Ваш ключ Gemini
 GROUP_ID = -1003266709108
 
